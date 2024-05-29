@@ -6,7 +6,7 @@
         "repositoryURL": "https://github.com/Alamofire/Alamofire",
         "state": {
           "branch": null,
-          "revision": "bc268c28fb170f494de9e9927c371b8342979ece",
+          "revision": "f455c2975872ccd2d9c81594c658af65716e9b9a",
           "version": "5.9.1"
         }
       },
@@ -15,7 +15,7 @@
         "repositoryURL": "https://github.com/mxcl/PromiseKit",
         "state": {
           "branch": null,
-          "revision": "8a98e31a47854d3180882c8068cc4d9381bf382d",
+          "revision": "cb70b070cde06837cd10a1febdf6105c1a3bb348",
           "version": "8.1.1"
         }
       },
@@ -24,7 +24,7 @@
         "repositoryURL": "https://github.com/apple/swift-argument-parser",
         "state": {
           "branch": null,
-          "revision": "fee6933f37fde9a5e12a1e4aeaa93fe60116ff2a",
+          "revision": "0fbc8848e389af3bb55c182bc19ca9d5dc2f255b",
           "version": "1.4.0"
         }
       }
