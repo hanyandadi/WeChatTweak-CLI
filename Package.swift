@@ -16,9 +16,9 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/Alamofire/Alamofire", from: "5.7.1"),
-        .package(url: "https://github.com/mxcl/PromiseKit", from: "6.22.1"),
-        .package(url: "https://github.com/apple/swift-argument-parser", from: "1.2.2")
+        .package(url: "https://github.com/Alamofire/Alamofire", from: "5.9.1"),
+        .package(url: "https://github.com/mxcl/PromiseKit", from: "8.1.1"),
+        .package(url: "https://github.com/apple/swift-argument-parser", from: "1.4.0")
     ],
     targets: [
         .executableTarget(
