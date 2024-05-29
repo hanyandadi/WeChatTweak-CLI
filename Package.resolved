@@ -7,7 +7,7 @@
         "state": {
           "branch": null,
           "revision": "bc268c28fb170f494de9e9927c371b8342979ece",
-          "version": "5.7.1"
+          "version": "5.9.1"
         }
       },
       {
@@ -16,7 +16,7 @@
         "state": {
           "branch": null,
           "revision": "8a98e31a47854d3180882c8068cc4d9381bf382d",
-          "version": "6.22.1"
+          "version": "8.1.1"
         }
       },
       {
@@ -25,7 +25,7 @@
         "state": {
           "branch": null,
           "revision": "fee6933f37fde9a5e12a1e4aeaa93fe60116ff2a",
-          "version": "1.2.2"
+          "version": "1.4.0"
         }
       }
     ]
